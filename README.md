@@ -9,7 +9,7 @@ Liste des méthodes et leur fonction :
 
 main : Exécute globalement le code et écrit dans un fichier le résultat de l'analyse.
 
-getAdresse : Analyse l'adresse reçue pour vérifier sa validité, les caractères tels que les lettre ne devraient pas passer mais on n'arrive pas à gérer cette erreur.
+getAdresse : Analyse l'adresse reçue pour vérifier sa validité, les caractères tels que les lettre ne devraient pas passer mais on n'arrive pas à gérer cette erreur (utilisation isalpha()).
 
 getClass : Retourne selon le masque la classe de l'adresse IP.
 
