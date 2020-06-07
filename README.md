@@ -13,6 +13,6 @@ getAdresse : Analyse l'adresse reçue pour vérifier sa validité, les caractèr
 
 getClass : Retourne selon le masque la classe de l'adresse IP.
 
-getTypeAdresse : Retourne le type de la classe entré.
+getTypeAdresse : Retourne le type de la classe entrée.
 
 getReseau : Retourne en fonction de l'adresse et du masque le nombre de machines connectables à ce réseau. 
